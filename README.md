@@ -1,4 +1,4 @@
-## Olá Mundo
+## Cleudon Alves de Freitas
 ---
 
 <!--
@@ -29,18 +29,56 @@ Hi 👋, I'm Cleudon! A passionate Data Science student.
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-###
+## Linguagens
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+
+
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+    
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+
+    
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+    
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  
+  <img align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+    
+
+          
+          
+          
+          
+    
+          
+          
+          
 </div>
 
 ###
