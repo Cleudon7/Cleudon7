@@ -12,6 +12,13 @@ Hi 👋, I'm Cleudon! A passionate Data Science student.
 
 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 -->
+
+<div align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
+  <p>Get dynamically generated GitHub stats on your READMEs!</p>
+</div>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ka.22.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=4034f4">
